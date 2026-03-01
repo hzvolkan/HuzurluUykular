@@ -1,0 +1,27 @@
+const Colors = {
+    background: '#0D0907',
+    backgroundLight: '#1A110D',
+    backgroundWarm: '#241810',
+    card: 'rgba(42, 28, 20, 0.65)',
+    cardBorder: 'rgba(196, 155, 104, 0.1)',
+    accent: '#C49B68',
+    accentGlow: '#D4A574',
+    accentSoft: 'rgba(196, 155, 104, 0.25)',
+    accentDim: 'rgba(196, 155, 104, 0.08)',
+    textPrimary: '#F2E4D5',
+    textSecondary: '#9B8577',
+    textMuted: '#6B5A4E',
+    sliderTrack: 'rgba(196, 155, 104, 0.12)',
+    sliderFill: '#C49B68',
+    timerActive: '#C49B68',
+    timerInactive: 'rgba(196, 155, 104, 0.1)',
+    timerText: '#F2E4D5',
+    gradientStart: '#1A110D',
+    gradientMid: '#120C08',
+    gradientEnd: '#0D0907',
+    overlay: 'rgba(13, 9, 7, 0.4)',
+    success: '#7BAF6E',
+    error: '#C46868',
+};
+
+export default Colors;

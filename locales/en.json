@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appTitle": "Peaceful Sleep",
+        "subtitle": "Relax and sleep peacefully",
+        "sounds": "Sounds",
+        "timer": {
+            "select": "Choose Duration",
+            "off": "Timer Off",
+            "fading": "Fading out...",
+            "minutes": "mins",
+            "cancel": "Cancel",
+            "timeLeft": "left"
+        },
+        "footer": "Peaceful Sleep"
+    }
+}

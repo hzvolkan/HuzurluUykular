@@ -1,0 +1,16 @@
+{
+    "common": {
+        "appTitle": "Huzurlu Uykular",
+        "subtitle": "Rahatla ve huzurla uyu",
+        "sounds": "Sesler",
+        "timer": {
+            "select": "Süre Seçin",
+            "off": "Zamanlayıcı Kapalı",
+            "fading": "Ses kapanıyor...",
+            "minutes": "dk",
+            "cancel": "İptal",
+            "timeLeft": "kaldı"
+        },
+        "footer": "Huzurlu Uykular"
+    }
+}
