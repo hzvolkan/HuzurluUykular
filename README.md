@@ -1,5 +1,10 @@
 # Volksdev Uygulamasına Hoş Geldiniz
 
+<div align="center">
+  <img src="assets/images/uygulama-ici-resim-1.jpeg" width="300" />
+  <img src="assets/images/uygulama-ici-resim-2.jpeg" width="300" />
+</div>
+
 ## Proje Bilgileri
 
 Bu, [Volksdev] ile oluşturulmuş, çapraz platform destekli yerel (native) bir mobil uygulamadır.
