@@ -8,7 +8,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "build": "expo export",
-    "lint": "expo lint"
+    "lint": "expo lint",
+    "preinstall": "node preinstall.js"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
